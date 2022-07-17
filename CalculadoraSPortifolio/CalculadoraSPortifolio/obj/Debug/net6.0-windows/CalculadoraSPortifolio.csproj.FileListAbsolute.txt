@@ -1,0 +1,51 @@
+C:\Users\gabri\Desktop\A\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\bin\Debug\net6.0-windows\CalculadoraSPortifolio.exe
+C:\Users\gabri\Desktop\A\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\bin\Debug\net6.0-windows\CalculadoraSPortifolio.deps.json
+C:\Users\gabri\Desktop\A\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\bin\Debug\net6.0-windows\CalculadoraSPortifolio.runtimeconfig.json
+C:\Users\gabri\Desktop\A\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\bin\Debug\net6.0-windows\CalculadoraSPortifolio.dll
+C:\Users\gabri\Desktop\A\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\bin\Debug\net6.0-windows\CalculadoraSPortifolio.pdb
+C:\Users\gabri\Desktop\A\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\A\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.Form1.resources
+C:\Users\gabri\Desktop\A\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.csproj.GenerateResource.cache
+C:\Users\gabri\Desktop\A\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\A\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\A\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.AssemblyInfo.cs
+C:\Users\gabri\Desktop\A\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\A\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.dll
+C:\Users\gabri\Desktop\A\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\refint\CalculadoraSPortifolio.dll
+C:\Users\gabri\Desktop\A\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.pdb
+C:\Users\gabri\Desktop\A\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.genruntimeconfig.cache
+C:\Users\gabri\Desktop\A\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\ref\CalculadoraSPortifolio.dll
+D:\Projetos C#\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\bin\Debug\net6.0-windows\CalculadoraSPortifolio.exe
+D:\Projetos C#\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\bin\Debug\net6.0-windows\CalculadoraSPortifolio.deps.json
+D:\Projetos C#\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\bin\Debug\net6.0-windows\CalculadoraSPortifolio.runtimeconfig.json
+D:\Projetos C#\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\bin\Debug\net6.0-windows\CalculadoraSPortifolio.dll
+D:\Projetos C#\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\bin\Debug\net6.0-windows\CalculadoraSPortifolio.pdb
+D:\Projetos C#\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.csproj.AssemblyReference.cache
+D:\Projetos C#\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.Form1.resources
+D:\Projetos C#\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.csproj.GenerateResource.cache
+D:\Projetos C#\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.AssemblyInfoInputs.cache
+D:\Projetos C#\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.AssemblyInfo.cs
+D:\Projetos C#\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.dll
+D:\Projetos C#\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\refint\CalculadoraSPortifolio.dll
+D:\Projetos C#\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.pdb
+D:\Projetos C#\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.genruntimeconfig.cache
+D:\Projetos C#\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\ref\CalculadoraSPortifolio.dll
+D:\Projetos C#\GIT\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\bin\Debug\net6.0-windows\CalculadoraSPortifolio.exe
+D:\Projetos C#\GIT\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\bin\Debug\net6.0-windows\CalculadoraSPortifolio.deps.json
+D:\Projetos C#\GIT\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\bin\Debug\net6.0-windows\CalculadoraSPortifolio.runtimeconfig.json
+D:\Projetos C#\GIT\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\bin\Debug\net6.0-windows\CalculadoraSPortifolio.dll
+D:\Projetos C#\GIT\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\bin\Debug\net6.0-windows\CalculadoraSPortifolio.pdb
+D:\Projetos C#\GIT\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.csproj.AssemblyReference.cache
+D:\Projetos C#\GIT\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.Form1.resources
+D:\Projetos C#\GIT\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.csproj.GenerateResource.cache
+D:\Projetos C#\GIT\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\GIT\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.AssemblyInfoInputs.cache
+D:\Projetos C#\GIT\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.AssemblyInfo.cs
+D:\Projetos C#\GIT\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.csproj.CoreCompileInputs.cache
+D:\Projetos C#\GIT\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.dll
+D:\Projetos C#\GIT\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\refint\CalculadoraSPortifolio.dll
+D:\Projetos C#\GIT\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.pdb
+D:\Projetos C#\GIT\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\CalculadoraSPortifolio.genruntimeconfig.cache
+D:\Projetos C#\GIT\Calculadora\CalculadoraSPortifolio\CalculadoraSPortifolio\obj\Debug\net6.0-windows\ref\CalculadoraSPortifolio.dll
