@@ -155,6 +155,7 @@ namespace CalculadoraSPortifolio
             valor1 = Decimal.Parse(visorResultado.Text);
             Operacao = "/";
             visorResultado.Text = "";
+            //look the stars tonight
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos C#\\GIT\\Calculadora\\CalculadoraSPortifolio\\CalculadoraSPortifolio\\CalculadoraSPortifolio.csproj": {}
+    "D:\\Projetos C#\\GIT\\CalculadoraSPortifolio\\CalculadoraSPortifolio\\CalculadoraSPortifolio.csproj": {}
   },
   "projects": {
-    "D:\\Projetos C#\\GIT\\Calculadora\\CalculadoraSPortifolio\\CalculadoraSPortifolio\\CalculadoraSPortifolio.csproj": {
+    "D:\\Projetos C#\\GIT\\CalculadoraSPortifolio\\CalculadoraSPortifolio\\CalculadoraSPortifolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos C#\\GIT\\Calculadora\\CalculadoraSPortifolio\\CalculadoraSPortifolio\\CalculadoraSPortifolio.csproj",
+        "projectUniqueName": "D:\\Projetos C#\\GIT\\CalculadoraSPortifolio\\CalculadoraSPortifolio\\CalculadoraSPortifolio.csproj",
         "projectName": "CalculadoraSPortifolio",
-        "projectPath": "D:\\Projetos C#\\GIT\\Calculadora\\CalculadoraSPortifolio\\CalculadoraSPortifolio\\CalculadoraSPortifolio.csproj",
+        "projectPath": "D:\\Projetos C#\\GIT\\CalculadoraSPortifolio\\CalculadoraSPortifolio\\CalculadoraSPortifolio.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos C#\\GIT\\Calculadora\\CalculadoraSPortifolio\\CalculadoraSPortifolio\\obj\\",
+        "outputPath": "D:\\Projetos C#\\GIT\\CalculadoraSPortifolio\\CalculadoraSPortifolio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
